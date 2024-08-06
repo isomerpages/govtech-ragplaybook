@@ -4,21 +4,21 @@ title: AI Practice
 description: Home of the AI Practice in GovTech
 image: /images/Logo_Colour.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: AI Practice
+      subtitle: Home of the Govtech AI Practice Team
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: RAG Playbook
+          description: See our RAG Playbook here
+          url: https://go.gov.sg/rag-playbook
+        - title: projects
+          description: See our agency projects
+          url: ""
         - title: Page A
           description: Page A is important too
           url: /privacy/
