@@ -2,4 +2,4 @@ collections:
   rag-playbook:
     output: true
     order:
-      - RAG Playbook.md
+      - Executive Summary.md
