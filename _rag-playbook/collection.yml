@@ -1,4 +1,5 @@
 collections:
   rag-playbook:
     output: true
-    order: []
+    order:
+      - RAG Playbook.md
