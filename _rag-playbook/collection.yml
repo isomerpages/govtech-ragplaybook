@@ -1,0 +1,4 @@
+collections:
+  rag-playbook:
+    output: true
+    order: []
