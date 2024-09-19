@@ -2,4 +2,5 @@ collections:
   rag-playbook:
     output: true
     order:
+      - Introduction.md
       - Building Effective RAG Apps in the Public Service.md
