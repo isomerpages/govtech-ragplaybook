@@ -21,7 +21,7 @@ sections:
           url: ""
         - title: Page A
           description: Page A is important too
-          url: /privacy/
+          url: /rag-playbook
   - infobar:
       title: Infobar title
       subtitle: Subtitle
